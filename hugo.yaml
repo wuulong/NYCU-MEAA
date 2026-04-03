@@ -1,0 +1,32 @@
+baseURL: "https://nycu-meaa.github.io/"
+languageCode: "zh-tw"
+title: "NYCU MEAA | 交大機械系友會"
+theme: "hextra"
+
+# Hextra 核心導覽配置
+languages:
+  zh-tw:
+    languageName: "繁體中文"
+    menu:
+      main:
+        - name: "50 週年系慶"
+          url: "anniversary"
+          weight: 10
+        - name: "資源對接"
+          url: "network"
+          weight: 20
+        - name: "組織治理"
+          url: "governance"
+          weight: 30
+        - name: "大師訪談"
+          url: "community"
+          weight: 40
+
+params:
+  displayNames:
+    zh-tw: "繁體中文"
+  editURL:
+    base: "https://github.com/wuulong/NYCU-MEAA/edit/main/content"
+  footer:
+    displayCopyright: true
+    displayPoweredBy: false
