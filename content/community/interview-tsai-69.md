@@ -2,7 +2,7 @@
 title: "校友專訪｜蔡瑞興 一步一步走出的跨國視野"
 active: true
 type: docs
-weight: 40
+weight: 20
 categories:
   - Community
   - 機械系50
