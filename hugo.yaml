@@ -22,7 +22,7 @@ languages:
         - name: "組織治理"
           url: "/governance/"
           weight: 30
-        - name: "大師訪談"
+        - name: "系友訪談"
           url: "/community/"
           weight: 40
 
