@@ -5,7 +5,6 @@ draft: false
 description: "原子化編碼、供需標籤清單與 v0.1.4 媒合引擎設計規範"
 _build:
   list: never
-  publishResources: false
 ---
 
 # 🛠️ 資源對接網絡：系統架構與標籤字典 (v0.5)
