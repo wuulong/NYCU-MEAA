@@ -36,8 +36,8 @@ type: docs
 ---
 
 ### 📝 慶典報名資訊 (Registration)
-為利統計人數與餐點，請於 **115 年 4 月 7 日前** 完成報名：  
-[👉 **點此進入 50 週年系慶 Google 表單報名專頁**](https://forms.gle/7CUFmmg4EyoJUfAq8)
+為利統計人數與餐點，請於 **115 年 4 月 10 日前** 完成報名：  
+[👉 **點此進入 50 週年系慶 Google 表單報名專頁**](https://forms.gle/6VhvVg48gQavG5Pj6)
 
 ---
 
