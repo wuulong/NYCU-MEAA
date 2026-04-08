@@ -1,10 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NYCU MEAA | 交大機械系友會 – 50 週年系慶公告</title>
+    <title>NYCU MEAA | 交大機械系友會 – 50 週年系慶：薪火五十．啟動轉型</title>
     <link>http://localhost:1313/anniversary/</link>
-    <description>Recent content in 50 週年系慶公告 on NYCU MEAA | 交大機械系友會</description>
+    <description>Recent content in 50 週年系慶：薪火五十．啟動轉型 on NYCU MEAA | 交大機械系友會</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
+    <lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/anniversary/index.xml" rel="self" type="application/rss+xml" />
     
