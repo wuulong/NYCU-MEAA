@@ -3,6 +3,7 @@ title: 內部討論與機制草案 (Internal Discussion)
 _build:
   list: never
   render: always
+search: false
 ---
 
 # 🛠 內部討論與機制草案專場

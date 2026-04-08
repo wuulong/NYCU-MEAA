@@ -4,6 +4,9 @@ defaultContentLanguage: "zh-tw"
 title: "NYCU MEAA | 交大機械系友會"
 theme: "Hextra"
 
+outputs:
+  home: [HTML, RSS, JSON]
+
 # 讓所有內容預設使用 docs 佈局以開啟側邊欄
 cascade:
   - type: "docs"
@@ -25,12 +28,19 @@ languages:
         - name: "系友訪談"
           url: "/community/"
           weight: 40
+        - name: "搜尋"
+          weight: 50
+          params:
+            type: "search"
 
 params:
   displayNames:
     zh-tw: "繁體中文"
   editURL:
     base: "https://github.com/wuulong/NYCU-MEAA/edit/main/content"
+  search:
+    enable: true
+    nextjs: false # 使用 FlexSearch 模式
   footer:
     displayCopyright: true
     displayPoweredBy: false
