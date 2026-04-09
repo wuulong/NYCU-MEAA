@@ -37,7 +37,8 @@ type: docs
 
 ### 📝 慶典報名資訊 (Registration)
 為利統計人數與餐點，請於 **115 年 4 月 10 日前** 完成報名：  
-[👉 **點此進入 50 週年系慶 Google 表單報名專頁**](https://forms.gle/6VhvVg48gQavG5Pj6)
+[👉 **點此進入 50 週年系慶 Google 表單報名專頁**](https://forms.gle/6VhvVg48gQavG5Pj6)  
+[🏛️ **點此查看機械系官網：系慶 50 週年官方敬邀公告**](https://me.nycu.edu.tw/zh_tw/alumni/alumni_news/-%E6%95%AC%E9%82%80-%E6%AD%A1%E8%BF%8E%E5%90%84%E5%B1%86%E7%B3%BB%E5%8F%8B%E8%BF%94%E6%A0%A1%E5%8F%83%E5%8A%A0115%E5%B9%B44%E6%9C%8811%E6%97%A5-%E5%85%AD-%E6%89%80%E8%88%89%E8%BE%A6%E4%B9%8B%E6%A9%9F%E6%A2%B0%E7%B3%BB50%E9%80%B1%E5%B9%B4%E7%B3%BB%E6%85%B6%E6%B4%BB%E5%8B%95-61969004)
 
 ---
 
