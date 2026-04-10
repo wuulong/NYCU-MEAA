@@ -18,5 +18,7 @@ weight: 30
 
 ![太空所線上資源 QR Code](/images/isse_qr.png)
 
+- [太空所官方網站：最新消息](https://isse.nycu.edu.tw/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af/)
+- [太空所臉書粉絲專頁](https://www.facebook.com/isseNYCU)
 ---
 *「開創機械新紀元，邁向宇宙新航道。」*
