@@ -63,7 +63,8 @@ type: docs
 ### **2. 策略論述與轉型架構 (Slides & Docs)**
 如果您感興趣我們背後的運作邏輯（包含數據主權、法人化、以及與學生團隊對接的機制）：
 *   [📄 **2026 系友會轉型策略簡報**](https://drive.google.com/open?id=1Yw7PE58re96PtL884jBRi8sMYkfYouOR)
-*   [📄 **資源對接網絡策略框架 v0.5**](https://drive.google.com/open?id=16JJfnByGoM_X3yoMXWDHUtapjEkOZEso)
+*   [📄 **資源對接網路策略框架 v0.5**](https://drive.google.com/open?id=16JJfnByGoM_X3yoMXWDHUtapjEkOZEso)
+*   [👉 **4/11 系友下午共商大計：完整流程與願景宣達**]({{< relref "session-design-411.md" >}})
 
 ---
 
